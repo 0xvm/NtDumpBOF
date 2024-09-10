@@ -1,6 +1,6 @@
 #include <windows.h>
 #include <tlhelp32.h>
-#include <Winnt.h>
+#include <winnt.h>
 #include "bofdefs.h"
 #include "beacon.h"
 
